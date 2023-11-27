@@ -6,7 +6,7 @@ Projeto inicial básico do curso de HTML e CSS da Alura
 | -------------  | --- |
 | :sparkles: Nome        | **Portifolio**
 | :label: Tecnologias | HTML, CSS, Figma, Flex-box
-| :rocket: URL         | https://github.com/VanessaSAraujo/CartaoVisita.git  |  https://cartao-visita-one.vercel.app/
+| :rocket: URL         | https://github.com/VanessaSAraujo/CartaoVisita.git  /  https://cartao-visita-one.vercel.app/
 | :fire: Desafio     | https://github.com/alura-cursos/Portifolio-HTML-e-CSS-Curso2/tree/aula_5
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
